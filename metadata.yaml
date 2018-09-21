@@ -1,11 +1,16 @@
 _repo: How-Women-May-Earn-a-Living_54330
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54330-h/images/cover.jpg
 creator:
   author:
     agent_name: Grogan, Mercy
     gutenberg_agent_id: '47824'
     url: http://www.gutenberg.org/2009/agents/47824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54330#How-Women-May-Earn-a-Living
 gutenberg_issued: '2017-03-09'
 gutenberg_type: Text
 identifiers:
